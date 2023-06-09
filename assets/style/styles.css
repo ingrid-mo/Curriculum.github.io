@@ -1,7 +1,8 @@
 body {
     font-family: "Raleway", sans-serif;
     background-color: #050111;
-    background-image:url(../img/nebulosa-transparente.png);
+    background-image:url(../img/color.globs.fondo.png);
+    background-repeat: no-repeat;
     font-family: 'Montserrat', sans-serif;
 
   }
@@ -58,12 +59,19 @@ margin: 5% 0%;
 .skills{
   padding: 5% 5%;
   height: 15rem;
+  background-image: url(../img/Noise-Texture.png);
 
 }
 h3{
   margin: 1% 0% 7%;
 
 }
+
+
+
+
+
+
 .skills img{
   width: 80px;
   height: 80px;
