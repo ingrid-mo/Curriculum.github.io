@@ -18,6 +18,9 @@ body {
     height: 600px;
   
   }
+  #Acerca-de-mi{
+    margin: 0% 10%;
+  }
 
   .img-1{
     height: 200px
@@ -54,7 +57,7 @@ margin: 5% 0%;
 
 .skills{
   padding: 5% 5%;
-  height: 30rem;
+  height: 15rem;
 
 }
 h3{
@@ -62,13 +65,20 @@ h3{
 
 }
 .skills img{
-  width: 150px;
-  height: 150px;
+  width: 80px;
+  height: 80px;
   margin: 0% 3%;
 }
+/* .text-center{
+  margin: 11% 0%;
+} */
+
+
 footer{
   height: 150px;
-  background: #060213;
+  background: #060213 ;
+  background-image: url(../img/color-globs1.png);
+
 }
 footer p {
   font-weight: 100;
