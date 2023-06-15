@@ -4,5 +4,5 @@ https://ingrid-mo.github.io/Curriculum.github.io/
 
 
 #### los compañeros con los que realizé commit fueron:
-- Felipe
-- Jecmison
+- Felipe Jimenez https://github.com/Fel-Jim
+- Jecmison Figuera https://github.com/Jecmison
